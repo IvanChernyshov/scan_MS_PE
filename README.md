@@ -1,5 +1,7 @@
 # Automated MS deconvolution for catalytic thermal decomposition of PE
 
+![concept.png](misc/concept.png)
+
 ## About
 
 This repository contains the implementation of qualitative deconvolution of continuous scan mass-spectrometry data exemplified on the catalytic thermal decomposition of polyethylene (PE). The goal of this project is to provide a reproducible workflow for the MS-driven study of the dynamics of catalytic processes.
