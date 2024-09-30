@@ -1,6 +1,6 @@
 # Automated MS deconvolution for catalytic thermal decomposition of PE
 
-![concept.png](misc/concept.png)
+[concept.png](misc/concept.png)
 
 ## About
 
